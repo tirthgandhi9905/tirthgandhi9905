@@ -3,9 +3,9 @@
 - 👀 Passioonate developer
 - 😄 Pronouns: GT
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e478e0f4bsb452qj5g2gx9a13u28a4rh6g8jhsahhin&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=tirthgandhi9905&style=flat-square&color=blue" alt=""/>
+<h1 align="center">
+<img src="https://komarev.com/ghpvc/?username=tirthgandhi9905&style=flat-square&color=blue" alt=""/></h1>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
