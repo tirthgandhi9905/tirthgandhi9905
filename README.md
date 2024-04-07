@@ -2,8 +2,7 @@
 - A learner from DAIICT college.
 - 👀 Passioonate developer
 - 😄 Pronouns: GT
-- ⚡ Fun fact: ...
-- <div id="header" align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
@@ -30,9 +29,10 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content's.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,10 +53,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=tirthgandhi9905
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tirthgandhi9905&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgandhi9905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
