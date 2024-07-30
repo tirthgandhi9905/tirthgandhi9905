@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e478e0f4bsb452qj5g2gx9a13u28a4rh6g8jhsahhin&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/
+tirthgandhi9905">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
