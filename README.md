@@ -1,7 +1,10 @@
-- Hi 👋, I’m Tirth Gandhi
-- A learner from DAIICT college.
-- 👀 Passioonate developer
-- 😄 Pronouns: GT
+<h1 align = "center">
+  hey there, I'm Tirth Gandhi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+-  A learner from DAIICT college. <br>
+- 👀 Passioonate developer<br>
+- 😄 Pronouns: GT <br >
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e478e0f4bsb452qj5g2gx9a13u28a4rh6g8jhsahhin&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -19,10 +22,6 @@ tirthgandhi9905">
 </div>
 <h1 align="center">
 <img src="https://komarev.com/ghpvc/?username=tirthgandhi9905&style=flat-square&color=blue" alt=""/></h1>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -45,12 +44,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgandhi9905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tirthgandhi9905&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgandhi9905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<h1 align = "center" >
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirthgandhi9905&show_icons=true&locale=en" alt="tirthgandhi9905" /></p>
+</h1>
 <!---
 tirthgandhi9905/tirthgandhi9905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
