@@ -1,5 +1,5 @@
 <h1 align = "center">
-  hey there, I'm Tirth Gandhi
+  Hey there, I'm Tirth Gandhi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 -  A learner from DAIICT college. <br>
@@ -27,11 +27,12 @@ tirthgandhi9905">
 </div>
 
 ---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthgandhi9905" alt="tirthgandhi9905" /></a> </p>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :seedling: Exploring Technical Content's.
-
+-  Currently learning HTML, CSS, JAVASCRIPT.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ---
