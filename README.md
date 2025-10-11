@@ -1,7 +1,8 @@
-<h1 align = "center">
-  Hey there, I'm Tirth Gandhi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=1FFF0F&vCenter=true&random=false&width=480&lines=Hi+I+am+Tirth+Gandhi;+GT)](https://git.io/typing-svg)
+</div>
+
 -  A learner from DAIICT college. <br>
 - 👀 Passionate developer<br>
 - 😄 Pronouns: GT <br >
