@@ -116,8 +116,6 @@
 
 </div>
 
-> 💡 **To activate the snake:** In your profile repo → Actions → New workflow → paste the [platane/snk](https://github.com/platane/snk) workflow YAML → it auto-generates the SVG every 24h.
-
 <br/>
 
 ---
