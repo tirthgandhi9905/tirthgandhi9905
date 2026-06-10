@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Tirth%20Gandhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DA-IICT%20%7C%20India&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Tirth%20Gandhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20DA-IICT%20%7C%20India&descAlignY=60&descAlign=50"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Tirth+Gandhi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+AI%2FML+Enthusiast+%F0%9F%A4%96;3rd+Year+%40+Dhirubhai+Ambani+University+%F0%9F%8E%93;Building+things+that+matter+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Tirth+Gandhi+%F0%9F%91%8B;Software+Developer+%F0%9F%9A%80;Competetive+Programmer+%7C+AI%2FML+Enthusiast+%F0%9F%A4%96;Building+things+that+matter+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthgandhi9905)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthgandhi992005)
 [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imTgandhi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthgandhi9905@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandhitirth604@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=tirthgandhi9905&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/tirthgandhi9905)
 
@@ -21,31 +21,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```yaml
- ┌──────────────────────────────────────────────────────────┐
- │                                                          │
- │   👤  Tirth Gandhi  (he/him)                             │
- │   🎓  Dhirubhai Ambani University (DA-IICT) — 3rd Year   │
- │   📍  India 🇮🇳                                          │
- │   💼  Full Stack Developer                               │
- │                                                          │
- │   currently_doing:                                       │
- │     🔭  Building production-grade full-stack apps        │
- │     🌱  Deepening expertise in React & Node.js           │
- │     🤖  Exploring PyTorch, TensorFlow & LLMs             │
- │     💬  Open to collaborations & open source             │
- │                                                          │
- │   when_not_coding:                                       │
- │     ⚡  Solving DSA problems on GeeksforGeeks            │
- │     📖  Reading tech articles & research papers          │
- │     🎯  Debugging the mysteries of existence             │
- │                                                          │
- │   fun_fact: "I turn ☕ into clean, scalable code."       │
- │                                                          │
- └──────────────────────────────────────────────────────────┘
-```
+- 💻 Passionate about Software Development and Problem Solving
+- 🤖 Interested in Generative AI, Agentic AI, and Machine Learning
+- 🌱 Exploring System Design and Scalable Applications
+- ⚡ Enjoy building end-to-end products and solving algorithmic challenges
+- 🎓 Dhirubhai Ambani University (DA-IICT), India
+- 💬 Open to collaborations and open source contributions
+- 📫 Reach me at [gandhitirth604@gmail.com](mailto:gandhitirth604@gmail.com)
 
 <br/>
 
@@ -92,18 +76,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Tirth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tirthgandhi9905&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -113,18 +85,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirthgandhi9905/tirthgandhi9905/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tirthgandhi9905/tirthgandhi9905/output/github-snake.svg" />
 </picture>
-
-</div>
-
-<br/>
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
